@@ -3,7 +3,10 @@
 ## *Prerequisites*
 
 -python is installed on your PC
--pandas is installed on your pc (To install, run 'pip install pandas')
+
+-pandas is installed on your PC (To install, run 'pip install pandas')
+
+---
 
 ## *Usage Instructions*
 
